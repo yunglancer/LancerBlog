@@ -1,0 +1,39 @@
+
+h1 {
+	font-size: 45px;
+	margin: 20px;
+	padding: 20px;
+	font-family: "impact";
+	text-align: center;
+	color: #000;
+	line-height: 30px;
+}
+
+.si {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	width: 90%;
+	padding-bottom: 20px;
+}
+
+.main{
+	display: flex;
+}
+
+ .articles {
+	width: 100%;
+	display: flex;
+	margin-right: 1.5%;
+	margin-left:10px;
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #e6e6e6 ;
+	background: #e6e6e6;
+	line-height: 20px;
+	margin: 30px;
+	justify-content: center;
+}
+
+ 

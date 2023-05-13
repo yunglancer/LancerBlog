@@ -1,0 +1,62 @@
+h1 {
+	font-size: 45px;
+	margin: 20px;
+	padding: 20px;
+	font-family: "impact";
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: #000;
+	line-height: 30px;
+}
+
+.main {
+	display: flex;
+	width: 90%;
+	margin:20px auto;
+	max-width:1100px;
+	
+}
+
+.cover {
+	margin: 0 auto;
+	padding: 10px;
+	width: 90%;
+}
+
+.covername {
+	color:white;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+	width: 20%;
+}
+
+.covername:hover {
+	text-decoration: underline;
+	text-shadow:0px 0px 1px #000;
+}
+
+.albumes {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+	background: rgb(17, 15, 15);
+}
+
+.bloque {
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+	align-content: center;
+}
+
+section {
+	padding-bottom: 10px;
+}
+

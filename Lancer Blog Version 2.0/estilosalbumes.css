@@ -1,0 +1,47 @@
+.cover {
+	margin: 0 auto;
+	padding: 10px;
+	width: 90%;
+}
+
+.covername {
+	color:white;
+	text-decoration: none;
+	text-align: center;
+	width: 20%;
+	font-weight: 600;
+}
+
+a{
+    font-family: "Segoe UI";
+}
+
+.covername:hover {
+	text-decoration: underline;
+	text-shadow:0px 0px 1px #000;
+    color: white;
+}
+
+.albumes {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+	background: rgb(17, 15, 15);
+    border-radius: 10px;
+    box-shadow: -1px 2px 56px -15px rgba(0,0,0,1);
+    -webkit-box-shadow: -1px 2px 56px -15px rgba(0,0,0,1);
+    -moz-box-shadow: -1px 2px 56px -15px rgba(0,0,0,1);
+}
+
+.bloque {
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+	align-content: center;
+}
+
+section {
+	padding-bottom: 10px;
+}

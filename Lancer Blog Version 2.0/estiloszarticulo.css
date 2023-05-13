@@ -1,0 +1,44 @@
+.si {
+	display: flex;
+	padding: 10px;
+	width: 100%;
+	justify-content: center;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+ .articles {
+	width: 100%;
+	padding: 30px;
+	border: 1px solid #e6e6e6 ;
+	background: #e6e6e6;
+	line-height: 20px;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+    border-radius: 5px;
+}
+
+.imagenes {
+	width: 100%;
+	display: flex;
+	margin: 0 auto;
+	justify-content: center;
+}
+
+.img {
+	width: 200px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.titulo{
+    color: black;
+    font-weight: bold;
+}
+
+.titulo:hover{
+    color: black;
+}
+

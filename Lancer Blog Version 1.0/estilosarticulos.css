@@ -1,0 +1,54 @@
+h1 {
+	font-size: 45px;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	font-family: "impact";
+}
+
+.titulo {
+	margin: 10px;
+	padding: 10px;
+	font-family: "impact";
+	text-align:left;
+}
+
+h1, .titulo {
+	color: #000;
+	line-height: 30px;
+}
+
+.main {
+	display: flex;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.principal {
+	display: flex;
+	flex-direction: column;
+}
+
+.articulos {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 30px;
+}
+
+ .articles {
+	width: 100%;
+	margin: 20px;
+	padding: 30px;
+	margin-bottom: 20px;
+	border: 1px solid #e6e6e6 ;
+	background: #e6e6e6;
+	line-height: 20px;
+	margin: 10px;
+}
+
+
+.img {
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+}

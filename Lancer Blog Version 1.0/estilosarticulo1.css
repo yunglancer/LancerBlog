@@ -1,0 +1,53 @@
+h1 {
+	font-size: 30px
+}
+
+h1, .titulo {
+	margin: 20px;
+	padding: 20px;
+	font-family: "impact";
+	text-align:left;
+}
+
+h1, .titulo {
+	color: #000;
+	line-height: 30px;
+}
+
+
+.si {
+	display: flex;
+	padding: 10px;
+	width: 100%;
+	justify-content: center;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+ .articles {
+	width: 100%;
+	margin-right: 1.5%;
+	margin-left:10px;
+	padding: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #e6e6e6 ;
+	background: #e6e6e6;
+	line-height: 20px;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.imagenes {
+	width: 100%;
+	display: flex;
+	margin: 0 auto;
+	justify-content: center;
+}
+
+.img {
+	width: 200px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
